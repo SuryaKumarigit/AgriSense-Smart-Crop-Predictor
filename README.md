@@ -47,11 +47,3 @@ The **Smart Crop Recommendation System** is an AI-powered tool designed to help 
 6. **Interpretation**: SHAP is used to explain the model's predictions.
 
 ---
-
-## Installation 📥
-To run this project locally, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/smart-crop-recommendation-system.git
-   cd smart-crop-recommendation-system
