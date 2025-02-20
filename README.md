@@ -1,6 +1,5 @@
 # AgriSense Smart Crop Predictor 🌱
-
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Smart+Crop+Recommendation+System) <!-- Add a banner image if available -->
+ <!-- Add a banner image if available -->
 
 The **Smart Crop Recommendation System** is an AI-powered tool designed to help farmers make data-driven decisions about which crops to grow based on soil conditions, weather data, and other environmental factors. By leveraging machine learning and real-time weather data from the NASA POWER API, this system provides accurate and interpretable crop recommendations to maximize yield and reduce risks.
 
